@@ -47,7 +47,7 @@ const LoginPage = () => {
         <Typography
           style={{ ...FONTS.h0, color: COLORS.title, fontWeight: 900 }}
         >
-          MIIT
+          MIITTTTTTTT
         </Typography>
         <CFormInput
           title="Email"
