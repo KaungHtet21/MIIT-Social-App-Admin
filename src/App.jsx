@@ -1,12 +1,13 @@
-import LoginPage from "./pages/Auth/LoginPage"
-import './App.css'
+import LoginPage from "./pages/Auth/LoginPage";
+import "./App.css";
+import Admin from "./pages/Admin Page/Admin";
 
 function App() {
   return (
     <>
-      <LoginPage/>
+      <Admin />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
